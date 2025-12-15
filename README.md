@@ -1,0 +1,1 @@
+This project analyzes store-level device insurance attach percentage data provided as part of a Data Science Internship assignment, with the objective of identifying performance drivers, improvement opportunities, and forecasting January attach percentages.
