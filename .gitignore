@@ -24,9 +24,6 @@ Thumbs.db
 data/raw/*.xlsx
 data/raw/*.csv
 
-# Outputs
-outputs/
-reports/*.pdf
 
 # Logs
 *.log

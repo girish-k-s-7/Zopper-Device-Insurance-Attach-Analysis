@@ -1,0 +1,164 @@
+Branch,Store_Name,Jan_Predicted_Attach
+Delhi_Ncr,Delhi(Janakpuri) Br,0.198
+Delhi_Ncr,Haryana(Gurgaon) Br,0.213
+Delhi_Ncr,Up(Greater Noida) Br,0.293
+Pune,Pune(Bhosari) Br,0.336
+Gujarat,Ahmedabad(Maninagar) Br,0.156
+Pune,Pune(Nagar Road) Br,0.369
+Pune,Pune(Chinchwad) Br,0.298
+Thane,Bhiwandi Br,0.418
+Delhi_Ncr,Up (Noida Sec.18) Br,0.203
+Pune,Pune(Baner) Br,0.263
+Delhi_Ncr,Delhi(Hauz Khas),0.599
+Delhi_Ncr,Delhi(Rohini) Br,0.317
+Telangana,Ts(Kondapur),0.43200000000000005
+Delhi_Ncr,Up(Raj Nagar Dc) Br,0.377
+Pune,Pune(Station Rd) Br,0.166
+Thane,Panvel Br,0.198
+Mumbai,Opera House Br,0.218
+Delhi_Ncr,Delhi(Daryaganj),0.413
+Telangana,Ts(Vivekananda Nagar),0.264
+Mumbai,Chakala Andheri Br,0.184
+Thane,Ghodbunder Br,0.24500000000000002
+Delhi_Ncr,Haryana(Mewla M.) Br,0.446
+Thane,Virar Br,0.182
+Delhi_Ncr,Haryana(New Faridabad),0.27
+Delhi_Ncr,Delhi(Patel Nagar) Br,0.367
+Delhi_Ncr,Delhi(Roop Nagar),0.216
+Delhi_Ncr,Delhi(Rajouri Garden) Br,0.23299999999999998
+Delhi_Ncr,Delhi(Kalkaji) Br,0.357
+Delhi_Ncr,Delhi(Karol Bagh) Br,0.32799999999999996
+Pune,Pune(Dange Chowk),0.612
+Delhi_Ncr,Delhi(Lajpatnagar) Br,0.134
+Pune,Pune(Rahatni) Br,0.204
+Delhi_Ncr,Delhi(Dwarka) Br,0.329
+Mumbai,MAHIM(VS Next),0.0
+Delhi_Ncr,Haryana(Faridabad) Br,0.256
+Delhi_Ncr,Delhi(Model Town Iii) Br,0.366
+Telangana,Ts(Nallakunta),0.21300000000000002
+Thane,Vasai Br,0.079
+Delhi_Ncr,Delhi(Paschim Vihar),0.316
+Thane,Dombivli Br,0.20199999999999999
+Thane,Mira Road Br,0.237
+Gujarat,Surat(Ved Road),0.255
+Thane,Kalyan Br,0.18
+Gujarat,Ahmedabad(Dev Arc) Br,0.207
+Gujarat,Ahmedabad(Bopal),0.30000000000000004
+Delhi_Ncr,Delhi(Vikas Marg) Br,0.35100000000000003
+Pune,Pune(Dhankawadi-Satara Rd),0.18400000000000002
+Thane,Vashi Br,0.12200000000000001
+Telangana,Ts(Jubilee Hills),0.053
+Mumbai,Linking Road Br,0.222
+Pune,Pune(Kothrud) Br,0.283
+Telangana,Ts(Warangal),0.08199999999999999
+Gujarat,Surat(Varachha) Br,0.192
+Thane,Palghar,0.305
+Mumbai,Andheri Br,0.374
+Pune,Pune(S Bapat Rd),0.421
+Mumbai,Borivali Br,0.28500000000000003
+Delhi_Ncr,Up(Indirapuram) Br,0.17300000000000001
+Mumbai,Goregaon (W) Br,0.356
+Telangana,Ts(Bhel),0.498
+Pune,Pune(Satara Rd) Br,0.15000000000000002
+Mumbai,Prabhadevi Br,0.26999999999999996
+Delhi_Ncr,Delhi(Defence Enclave-Palam) Br,0.412
+Delhi_Ncr,Delhi(Shahdara) Br,0.278
+Pune,Pune(Kondhawa),0.493
+Gujarat,Ahmedabad(Odhav) Br,0.28200000000000003
+Telangana,Ts(Kothapet),0.261
+Delhi_Ncr,Delhi(Mahavir Enclave),0.345
+Pune,Pune(Hinjewadi) Br,0.27299999999999996
+Pune,Pune(Hadapsar),0.493
+Pune,Pune(Solapur Rd) Br,0.281
+Delhi_Ncr,Haryana(Jacobpura) Br,0.23600000000000002
+Thane,Belapur Br,0.10200000000000001
+Gujarat,Surat(Bhatar),0.15
+Mumbai,Santacruz Br,0.392
+Mumbai,Bhandup Br,0.191
+Delhi_Ncr,Delhi(Uttam Nagar) Br,0.303
+Mumbai,Goregaon (E) Br,0.12300000000000001
+Gujarat,Ahmedabad(Ashram Rd) Br,0.11800000000000001
+Telangana,Ts(Boduppal),0.204
+Thane,Nallasopara Br,0.153
+Delhi_Ncr,Delhi(Budh Vihar),0.447
+Telangana,Ts(Karmanghat),0.136
+Delhi_Ncr,Delhi(Nangloi),0.14100000000000001
+Telangana,Ts(Kompally),0.219
+Thane,Currey Road,0.0
+Gujarat,Surat(Mota Varachha),0.188
+Mumbai,Chembur Br,0.1
+Gujarat,Ahmedabad(Krishna Nagar) Br,0.14200000000000002
+Telangana,Ts(Attapur),0.188
+Delhi_Ncr,Delhi(Pitampura) Br,0.197
+Delhi_Ncr,Delhi(Narela),0.5479999999999999
+Gujarat,Surat(Rander Rd) Br,0.226
+Delhi_Ncr,Delhi(Nawada),0.119
+Telangana,Ts(Tolichowki- Aditya Ngr),0.228
+Telangana,Ts(Paradise Circle),0.163
+Telangana,Ts(Shah Ali Banda),0.154
+Gujarat,Ahmedabad(Shahi Baug) Br,0.21300000000000002
+Telangana,Ts(Mehdipatnam),0.261
+Gujarat,Surat Br,0.17700000000000002
+Telangana,Ts(Sun City),0.24400000000000002
+Gujarat,Gandhinagar(Sargasan),0.10800000000000001
+Gujarat,Ahmedabad(Chandkheda Rd) Br,0.09600000000000002
+Telangana,Ts(Nagole),0.133
+Telangana,Ts(Kukatpally),0.23700000000000002
+Delhi_Ncr,Delhi(Burari),0.365
+Mumbai,Malad,0.203
+Telangana,Ts(Nacharam),0.222
+Thane,Mumbra(Kausa),0.128
+Gujarat,Surat(Parvat Patiya),0.2
+Telangana,Ts(R C Puram),0.109
+Telangana,Ts(Kompally- Golden Plaza),0.189
+Mumbai,Ghatkopar(Lbs Marg) Br,0.09299999999999999
+Delhi_Ncr,Delhi(Durgapuri),0.247
+Telangana,Ts(Chandrayangutta),0.138
+Delhi_Ncr,Haryana(Sec-65 Ext Gurugram),0.269
+Delhi_Ncr,Haryana(M G Road) Br,0.553
+Delhi_Ncr,Delhi(Saket) Br,0.10500000000000001
+Thane,Kharghar(Patel Heritage),0.14100000000000001
+Gujarat,Surat(Vip Road-Vesu),0.064
+Delhi_Ncr,Up(Gaur Chowk),0.065
+Telangana,Ts(Mailardevpally),0.246
+Mumbai,Sion Br,0.171
+Telangana,Ts(Hastinapur),0.181
+Delhi_Ncr,DELHI(KRISHNA NAGAR),0.155
+Mumbai,Ghatkopar Br,0.17700000000000002
+Thane,Kalyan(Khadakpada),0.173
+Thane,Thane Br,0.11
+Telangana,Ap(Tirupathi-M.R.Pally),0.138
+Delhi_Ncr,Haryana(Dundahera),0.114
+Thane,Badlapur,0.08900000000000001
+Delhi_Ncr,DELHI(ASHOK VIHAR),0.13
+Delhi_Ncr,Delhi(Najafgarh),0.020999999999999998
+Telangana,Ts(A.S.Rao Nagar),0.131
+Telangana,Ts(Malakpet),0.139
+Gujarat,Ahmedabad(Vishala) Br,0.11299999999999999
+Telangana,Ts(Chintalkunta),0.111
+Telangana,Ap(Rajahmundry-Jln Road),0.101
+Telangana,Ts(Punjagutta),0.164
+Telangana,Ap(Vijayawada),0.102
+Delhi_Ncr,Haryana(Palam Vihar Rd),0.10400000000000001
+Telangana,Ap(Kakinada),0.14
+Telangana,Ts(Wrg-Pochamma Maidan),0.087
+Mumbai,Mahim Br,0.15
+Delhi_Ncr,DELHI(ROHINI Sector-16),0.098
+Mumbai,Infiniti Br,0.08099999999999999
+Pune,Pune(Tilak Rd)Br,0.11499999999999999
+Telangana,Ts(Madinaguda),0.094
+Gujarat,Ahmedabad(Rakhial) Br,0.09100000000000001
+Telangana,Ts(Nagaram),0.099
+Telangana,Ts(Hayathnagar),0.047
+Thane,Ulhasnagar Br,0.025
+Gujarat,Ahmedabad(R3Mall) Br,0.069
+Mumbai,Boisar Br,0.020000000000000004
+Telangana,Ap(Vizag),0.0
+Telangana,Ap(Ntr Circle),0.0
+Gujarat,Vadodara(Kareli Baug),0.156
+Gujarat,Vadodara(Alkapuri) Br,0.14500000000000002
+Gujarat,Vadodara(Manjalpur) Br,0.191
+Thane,Kharghar Br,0.0
+Telangana,Ap(Tirupathi-Leela Mahal Circle),0.0
+Telangana,Ap(Rajamundry),0.0
+Gujarat,Vadodara(Kothi Road),0.0
